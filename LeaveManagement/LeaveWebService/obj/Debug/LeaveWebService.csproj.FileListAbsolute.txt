@@ -1,0 +1,21 @@
+D:\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveWebService.dll
+D:\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveWebService.pdb
+D:\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveLibrary.dll
+D:\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveLibrary.pdb
+D:\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.dll
+D:\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.pdb
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveWebService.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveWebService.pdb
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveLibrary.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveLibrary.pdb
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\ResolveAssemblyReference.cache
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveWebService.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveWebService.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveLibrary.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\bin\LeaveLibrary.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.csprojResolveAssemblyReference.cache
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveWebService\obj\Debug\LeaveWebService.pdb

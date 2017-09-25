@@ -1,0 +1,9 @@
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\bin\WebApplication1.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\bin\WebApplication1.pdb
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\obj\Debug\WebApplication1.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\bin\WebApplication1.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\bin\WebApplication1.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\WebApplication1\obj\Debug\WebApplication1.pdb

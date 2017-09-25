@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="LeaveWebApp.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+        }
+        .style3
+        {
+            height: 135px;
+        }
+        .style4
+        {
+            height: 61px;
+        }
+        .style5
+        {
+            height: 69px;
+        }
+    </style>
+</head>
+<body bgcolor="White">
+    <form id="form1" runat="server">
+    <div>
+       
+        <table class="style1">
+            <tr>
+                <td class="style5" style="background-color: #FFFFFF; margin-left: 120px;" 
+                    bgcolor="#996633">
+                    <asp:Label ID="Label1" runat="server" Font-Bold="True" Font-Names="Aharoni" 
+                        Font-Size="XX-Large" Text="Leave Management"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td class="style3">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style4">
+                    <asp:Label ID="Label2" runat="server" BorderWidth="3px" 
+                        style="margin-left: 300px; margin-right: 447px" Text="    IgateCorp" 
+                        Width="70px"></asp:Label>
+                </td>
+            </tr>
+        </table>
+       
+    </div>
+    </form>
+</body>
+</html>

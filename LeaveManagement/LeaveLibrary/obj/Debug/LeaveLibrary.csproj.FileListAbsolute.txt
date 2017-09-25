@@ -1,0 +1,14 @@
+D:\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\826432MPT04\LeaveManagement\LeaveLibrary\bin\Debug\LeaveLibrary.dll
+D:\826432MPT04\LeaveManagement\LeaveLibrary\bin\Debug\LeaveLibrary.pdb
+D:\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\LeaveLibrary.dll
+D:\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\LeaveLibrary.pdb
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\bin\Debug\LeaveLibrary.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\bin\Debug\LeaveLibrary.pdb
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\LeaveLibrary.dll
+D:\kkr\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\LeaveLibrary.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\bin\Debug\LeaveLibrary.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\bin\Debug\LeaveLibrary.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\LeaveLibrary.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\MPT04god\Test\826432MPT04\LeaveManagement\LeaveLibrary\obj\Debug\LeaveLibrary.pdb
