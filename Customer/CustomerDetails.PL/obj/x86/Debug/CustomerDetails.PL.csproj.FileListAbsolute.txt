@@ -1,0 +1,55 @@
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.exe.config
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\Database\Customer.mdf
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\Database\Customer_log.ldf
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.exe
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.BL.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.Entities.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerExceptions.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDrtails.DAL.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.BL.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.Entities.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerExceptions.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\bin\Debug\CustomerDrtails.DAL.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.AddCustomer.resources
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.CustomerDetails.resources
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.Properties.Resources.resources
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.exe
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.GetAllCustomers.resources
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.DeleteCustomer.resources
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.SearchCustomer.resources
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.UpdateCustomer.resources
+C:\Users\Sahana\Desktop\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.exe.config
+C:\Users\Sahana\Desktop\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.exe
+C:\Users\Sahana\Desktop\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.pdb
+C:\Users\kv828873\Desktop\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.exe.config
+C:\Users\kv828873\Desktop\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.exe
+C:\Users\kv828873\Desktop\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.exe.config
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.exe
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\Database\Customer.mdf
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\Database\Customer_log.ldf
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.exe
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.PL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.BL.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.Entities.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerExceptions.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDrtails.DAL.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.BL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDetails.Entities.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerExceptions.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\bin\Debug\CustomerDrtails.DAL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.csprojResolveAssemblyReference.cache
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.AddCustomer.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.CustomerDetails.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.DeleteCustomer.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.GetAllCustomers.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.Properties.Resources.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.SearchCustomer.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.UpdateCustomer.resources
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.PL\obj\x86\Debug\CustomerDetails.PL.csproj.GenerateResource.Cache

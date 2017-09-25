@@ -1,0 +1,9 @@
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.Entities\bin\Debug\CustomerDetails.Entities.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.Entities\bin\Debug\CustomerDetails.Entities.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.Entities\obj\Debug\ResolveAssemblyReference.cache
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.Entities\obj\Debug\CustomerDetails.Entities.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.Entities\obj\Debug\CustomerDetails.Entities.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.Entities\bin\Debug\CustomerDetails.Entities.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.Entities\bin\Debug\CustomerDetails.Entities.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.Entities\obj\Debug\CustomerDetails.Entities.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.Entities\obj\Debug\CustomerDetails.Entities.pdb

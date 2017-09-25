@@ -1,0 +1,9 @@
+D:\ADO.net IMPORTANT\Customer\CustomerExceptions\bin\Debug\CustomerExceptions.dll
+D:\ADO.net IMPORTANT\Customer\CustomerExceptions\bin\Debug\CustomerExceptions.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerExceptions\obj\Debug\ResolveAssemblyReference.cache
+D:\ADO.net IMPORTANT\Customer\CustomerExceptions\obj\Debug\CustomerExceptions.dll
+D:\ADO.net IMPORTANT\Customer\CustomerExceptions\obj\Debug\CustomerExceptions.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerExceptions\bin\Debug\CustomerExceptions.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerExceptions\bin\Debug\CustomerExceptions.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerExceptions\obj\Debug\CustomerExceptions.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerExceptions\obj\Debug\CustomerExceptions.pdb

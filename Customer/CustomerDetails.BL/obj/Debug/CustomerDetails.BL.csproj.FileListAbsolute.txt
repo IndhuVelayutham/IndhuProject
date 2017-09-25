@@ -1,0 +1,22 @@
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.BL.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.BL.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.Entities.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerDrtails.DAL.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerExceptions.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.Entities.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerDrtails.DAL.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\bin\Debug\CustomerExceptions.pdb
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\obj\Debug\ResolveAssemblyReference.cache
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\obj\Debug\CustomerDetails.BL.dll
+D:\ADO.net IMPORTANT\Customer\CustomerDetails.BL\obj\Debug\CustomerDetails.BL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.BL.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.BL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.Entities.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerDrtails.DAL.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerExceptions.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerDetails.Entities.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerDrtails.DAL.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\bin\Debug\CustomerExceptions.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\obj\Debug\CustomerDetails.BL.csprojResolveAssemblyReference.cache
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\obj\Debug\CustomerDetails.BL.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\final\lmn\lmn\Customer\CustomerDetails.BL\obj\Debug\CustomerDetails.BL.pdb
