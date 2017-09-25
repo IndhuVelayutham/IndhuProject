@@ -1,0 +1,18 @@
+D:\KarthikTFS\JUN30-2014\Src\MPT02-714709\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\KarthikTFS\JUN30-2014\Src\MPT02-714709\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\KarthikTFS\JUN30-2014\Src\MPT02-714709\EmployeeLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\KarthikTFS\JUN30-2014\Src\MPT02-714709\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\KarthikTFS\JUN30-2014\Src\MPT02-714709\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+\\igtewfd2186\Persnl\Training for friends\MPT02-714709\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+\\igtewfd2186\Persnl\Training for friends\MPT02-714709\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+\\igtewfd2186\Persnl\Training for friends\MPT02-714709\EmployeeLibrary\obj\Debug\ResolveAssemblyReference.cache
+\\igtewfd2186\Persnl\Training for friends\MPT02-714709\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+\\igtewfd2186\Persnl\Training for friends\MPT02-714709\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+D:\ilearn\MPT02-714709\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\ilearn\MPT02-714709\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\ilearn\MPT02-714709\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\ilearn\MPT02-714709\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
+D:\Softwares\Projects\employee\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+D:\Softwares\Projects\employee\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+D:\Softwares\Projects\employee\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+D:\Softwares\Projects\employee\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb
