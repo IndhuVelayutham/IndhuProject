@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="BankApplication.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    
+    <style type="text/css">
+        .style14
+        {
+            width: 1154px;
+            height: 275px;
+        }
+        .style15
+        {
+            height: 37px;
+        }
+        .style17
+        {
+            height: 87px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       
+        
+            <table class="style14">
+                <tr>
+                    <td bgcolor="#00CCFF" class="style17">
+                        <h1 align="center" style="background-color: #00FF00"><asp:Label ID="Label1" 
+                                runat="server" Font-Size="X-Large" ForeColor="#FFFF66" 
+                            Text="SBI Bank"></asp:Label> </h1>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor="#00CCFF" class="style15"><h3 align="center" 
+                            style="background-color: #800000">
+                        <asp:Label ID="Label2" runat="server" ForeColor="White" 
+                            Text="2014 Sbi Bank.All Rights" BackColor="#99FF33"></asp:Label> </h3>
+                        
+                    </td>
+                </tr>
+            </table>
+        
+       
+    </div>
+    </form>
+</body>
+</html>

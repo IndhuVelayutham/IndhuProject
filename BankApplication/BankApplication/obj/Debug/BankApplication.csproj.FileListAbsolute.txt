@@ -1,0 +1,14 @@
+D:\829017\ASP.NET\BankApplication\BankApplication\BankApplication\bin\BankApplication.dll
+D:\829017\ASP.NET\BankApplication\BankApplication\BankApplication\bin\BankApplication.pdb
+D:\829017\ASP.NET\BankApplication\BankApplication\BankApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\829017\ASP.NET\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.dll
+D:\829017\ASP.NET\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\kv828873\Desktop\BankApplication\BankApplication\BankApplication\bin\BankApplication.dll
+C:\Users\kv828873\Desktop\BankApplication\BankApplication\BankApplication\bin\BankApplication.pdb
+C:\Users\kv828873\Desktop\BankApplication\BankApplication\BankApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kv828873\Desktop\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.dll
+C:\Users\kv828873\Desktop\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\BankApplication\BankApplication\BankApplication\bin\BankApplication.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\BankApplication\BankApplication\BankApplication\bin\BankApplication.pdb
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.dll
+D:\Softwares\ilearn\Indhu\karthik\all igate\igate dotnet\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
