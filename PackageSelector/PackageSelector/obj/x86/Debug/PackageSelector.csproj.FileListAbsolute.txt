@@ -1,0 +1,8 @@
+D:\0001) My learnings\PackagingSolution\PackageSelector\PackageSelector\bin\Debug\PackageSelector.exe
+D:\0001) My learnings\PackagingSolution\PackageSelector\PackageSelector\bin\Debug\PackageSelector.pdb
+D:\0001) My learnings\PackagingSolution\PackageSelector\PackageSelector\obj\x86\Debug\PackageSelector.exe
+D:\0001) My learnings\PackagingSolution\PackageSelector\PackageSelector\obj\x86\Debug\PackageSelector.pdb
+D:\PackageSelector\PackageSelector\bin\Debug\PackageSelector.exe
+D:\PackageSelector\PackageSelector\bin\Debug\PackageSelector.pdb
+D:\PackageSelector\PackageSelector\obj\x86\Debug\PackageSelector.exe
+D:\PackageSelector\PackageSelector\obj\x86\Debug\PackageSelector.pdb
