@@ -1,0 +1,4 @@
+D:\GitProjects\Game\Game\bin\Debug\Game.exe
+D:\GitProjects\Game\Game\bin\Debug\Game.pdb
+D:\GitProjects\Game\Game\obj\x86\Debug\Game.exe
+D:\GitProjects\Game\Game\obj\x86\Debug\Game.pdb
