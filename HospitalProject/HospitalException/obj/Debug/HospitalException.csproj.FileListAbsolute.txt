@@ -1,0 +1,12 @@
+D:\ilearn\demo\HospitalLibrary\HospitalException\bin\Debug\HospitalException.dll
+D:\ilearn\demo\HospitalLibrary\HospitalException\bin\Debug\HospitalException.pdb
+D:\ilearn\demo\HospitalLibrary\HospitalException\obj\Debug\HospitalException.dll
+D:\ilearn\demo\HospitalLibrary\HospitalException\obj\Debug\HospitalException.pdb
+D:\ilearn\project\HospitalProject\HospitalException\bin\Debug\HospitalException.dll
+D:\ilearn\project\HospitalProject\HospitalException\bin\Debug\HospitalException.pdb
+D:\ilearn\project\HospitalProject\HospitalException\obj\Debug\HospitalException.dll
+D:\ilearn\project\HospitalProject\HospitalException\obj\Debug\HospitalException.pdb
+D:\GitProjects\HospitalProject\HospitalException\bin\Debug\HospitalException.dll
+D:\GitProjects\HospitalProject\HospitalException\bin\Debug\HospitalException.pdb
+D:\GitProjects\HospitalProject\HospitalException\obj\Debug\HospitalException.dll
+D:\GitProjects\HospitalProject\HospitalException\obj\Debug\HospitalException.pdb
